@@ -1,2 +1,11 @@
-"**Projecte de Prova**" 
-"_by Guillem_" 
+**Projecte de Prova**"
+
+_by Guillem_ 
+
+# Veiem 
+
+*git 
+
+*VUEJs
+
+*APIs
